@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/maihuybao/MiraiBypassGban.git"
+		"url": "git+https://github.com/RinCute/nnnn.git "
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "MaiHuyBao",
+	"author": "Rin",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url":"https://github.com/maihuybao/MiraiBypassGban/issue"
+		"url":"https://github.com/RinCute/nnnn/issue"
 	},
-	"homepage": "https://github.com/maihuybao/MiraiBypassGban#readme",
+	"homepage": "https://github.com/RinCute/nnnn#readme",
 	"dependencies": {
 		"nodejs-base64":"",
 		"@miraipr0ject/assets": "",
@@ -41,7 +41,7 @@
 		"crypto": "",
 		"eval": "",
 		"extract-zip": "",
-		"@maihuybao/fca-unofficial": "",
+		"@Rin/fca-unofficial": "",
 		"figlet": "",
 		"fs-extra": "",
 		"jimp": "",
