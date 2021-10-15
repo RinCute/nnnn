@@ -1,7 +1,7 @@
 {
 	"name": "MiraiBypass",
 	"version": "1.2.19",
-	"description": "Bẻ khoá và bổ sung bởi Mai Huy Bảo",
+	"description": "Bẻ khoá và bổ sung bởi Rin ",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
